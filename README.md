@@ -10,3 +10,6 @@ Java program to create array of size 5, print the position of numbers
 Java program to create array of size 10 hardcode squares of numbers , print any position of numbers
 ![image alt](https://github.com/Hithashree028/Module-1/blob/5d6a0bf4c0ae221029a4f6569f077f856617f676/Screenshot%202025-08-19%20191706.png)
 
+Java program to check the greater number by taking 2 numbers as input from the user
+![image alt](https://github.com/Hithashree028/Module-1/blob/9de936bd80689001ae912b94267f00ec50249dd0/Screenshot%202025-08-19%20192943.png)
+
