@@ -6,3 +6,7 @@ java program to check whether the number is positive or negative taking input fr
 
 Java program to create array of size 5, print the position of numbers
 ![image alt](https://github.com/Hithashree028/Module-1/blob/fb7c50561b70b6f37657e1e7c7a3cbb1ecffe466/Screenshot%202025-08-19%20152931.png)
+
+Java program to create array of size 10 hardcode squares of numbers , print any position of numbers
+![image alt](https://github.com/Hithashree028/Module-1/blob/5d6a0bf4c0ae221029a4f6569f077f856617f676/Screenshot%202025-08-19%20191706.png)
+
