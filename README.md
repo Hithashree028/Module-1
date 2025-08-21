@@ -16,3 +16,6 @@ Java program to check the greater number by taking 2 numbers as input from the u
 Java program to check whether the number is even or odd by taking input from the user
 ![image alt](https://github.com/Hithashree028/Module-1/blob/bf5cc56e225c13fddea37ed12e7810bd4c3620a6/Screenshot%202025-08-21%20120111.png)
 
+java program to print the square of a number by taking input from the user
+![image alt](https://github.com/Hithashree028/Module-1/blob/571a170a3304a9cd71f7ad4475c1a80ae316c214/Screenshot%202025-08-21%20121021.png)
+
