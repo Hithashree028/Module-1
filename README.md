@@ -20,6 +20,9 @@ java program to print the square of a number by taking input from the user
 ![image alt](https://github.com/Hithashree028/Module-1/blob/571a170a3304a9cd71f7ad4475c1a80ae316c214/Screenshot%202025-08-21%20121021.png)
 
 Java program to add, subtract, multiply and divide two numbers by taking input from the user
+![image alt](https://github.com/Hithashree028/Module-1/blob/157e5b0cd265daf638f943c10f9fd5931fa08f25/Screenshot%202025-08-21%20122025.png)
+
+Java program to take marks of 3 subjects from the user, print the total marks and average marks
 ![image alt]()
 
 
