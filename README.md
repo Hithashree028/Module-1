@@ -13,3 +13,6 @@ Java program to create array of size 10 hardcode squares of numbers , print any 
 Java program to check the greater number by taking 2 numbers as input from the user
 ![image alt](https://github.com/Hithashree028/Module-1/blob/9de936bd80689001ae912b94267f00ec50249dd0/Screenshot%202025-08-19%20192943.png)
 
+Java program to check whether the number is even or odd by taking input from the user
+![image alt](https://github.com/Hithashree028/Module-1/blob/bf5cc56e225c13fddea37ed12e7810bd4c3620a6/Screenshot%202025-08-21%20120111.png)
+
