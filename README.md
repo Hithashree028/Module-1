@@ -23,7 +23,7 @@ Java program to add, subtract, multiply and divide two numbers by taking input f
 ![image alt](https://github.com/Hithashree028/Module-1/blob/157e5b0cd265daf638f943c10f9fd5931fa08f25/Screenshot%202025-08-21%20122025.png)
 
 Java program to take marks of 3 subjects from the user, print the total marks and average marks
-![image alt]()
+![image alt](https://github.com/Hithashree028/Module-1/blob/16431fad338d8566538fd9b01dc6753d957ebc07/Screenshot%202025-08-21%20123031.png)
 
 
 
