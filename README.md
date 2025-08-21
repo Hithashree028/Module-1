@@ -28,5 +28,11 @@ Java program to take marks of 3 subjects from the user, print the total marks an
 Java program by taking input users name and age, print a greeting message
 ![image alt](https://github.com/Hithashree028/Module-1/blob/f04cddb1fd5d7ddaf0aba0414aee9b369c0eeef8/Screenshot%202025-08-21%20194240.png)
 
+Java program to take radius of circle as input from the user and prints its area
+![image alt](https://github.com/Hithashree028/Module-1/blob/1c9b301933ffba4294c833e2e99939f279698fd9/Screenshot%202025-08-21%20194921.png)
+
+Java program to take users year as birth and print users age
+![image alt]()
+
 
 
