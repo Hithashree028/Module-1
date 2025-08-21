@@ -32,7 +32,7 @@ Java program to take radius of circle as input from the user and prints its area
 ![image alt](https://github.com/Hithashree028/Module-1/blob/1c9b301933ffba4294c833e2e99939f279698fd9/Screenshot%202025-08-21%20194921.png)
 
 Java program to take users year as birth and print users age
-![image alt]()
+![image alt](https://github.com/Hithashree028/Module-1/blob/cb4af9a0a38fb4504ab511cbb0cb30ed9bdf269a/Screenshot%202025-08-21%20210200.png)
 
 
 
