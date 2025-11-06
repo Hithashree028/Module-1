@@ -43,6 +43,9 @@ Java program to take size of array from the user, read the elements and print al
 Java program to perform a bitwise AND operation between two integers
 ![image alt](https://github.com/Hithashree028/Module-1/blob/b4e1e09a1f67d583284f1f118ba25e1083882f8c/Screenshot%202025-11-06%20212038.png)
 
+Java program to perform the bitwise complement operation on an integer
+![image alt](https://github.com/Hithashree028/Module-1/blob/50aa228a01cd7542c2c456db05c8da62b3ec3975/Screenshot%202025-11-06%20214004.png)
+
 
 
 
