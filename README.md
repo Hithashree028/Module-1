@@ -40,5 +40,9 @@ Java program to take array size as input from the user and print
 Java program to take size of array from the user, read the elements and print all gthe elments of the array
 ![image alt](https://github.com/Hithashree028/Module-1/blob/47af30108e3288f461c16f5d4d3238130d5d3156/Screenshot%202025-08-26%20113804.png)
 
+Java program to perform a bitwise AND operation between two integers
+![image alt]()
+
+
 
 
