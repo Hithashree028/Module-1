@@ -41,7 +41,7 @@ Java program to take size of array from the user, read the elements and print al
 ![image alt](https://github.com/Hithashree028/Module-1/blob/47af30108e3288f461c16f5d4d3238130d5d3156/Screenshot%202025-08-26%20113804.png)
 
 Java program to perform a bitwise AND operation between two integers
-![image alt]()
+![image alt](https://github.com/Hithashree028/Module-1/blob/b4e1e09a1f67d583284f1f118ba25e1083882f8c/Screenshot%202025-11-06%20212038.png)
 
 
 
