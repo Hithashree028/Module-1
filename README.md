@@ -58,6 +58,27 @@ Java program to Print your name, age, and favorite programming language
 Java program to Calculate and print the area of a circle (radius = 7.5)
 ![image link](https://github.com/Hithashree028/Module-1/blob/acf251967aaac23b97ce935299b2f0f65372c19e/Screenshot%202025-11-11%20211925.png)
 
+Java program  Demonstrate type casting from double to int.
+![image link](https://github.com/Hithashree028/Module-1/blob/1b26af6227adef4ce9417fa9cdad8189e6850d3b/Screenshot%202025-11-11%20212037.png)
+
+
+![image link]()
+
+
+![image link]()
+
+
+![image link]()
+
+
+![image link]()
+
+
+![image link]()
+
+
+![image link]()
+
 
 
 
