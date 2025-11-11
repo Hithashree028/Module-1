@@ -55,6 +55,10 @@ Java program to Print "Hello Java" to the console.
 Java program to Print your name, age, and favorite programming language
 ![image link](https://github.com/Hithashree028/Module-1/blob/3dff71959a7d8b266229948883573b907cae47d9/Screenshot%202025-11-11%20211655.png)
 
+Java program to Calculate and print the area of a circle (radius = 7.5)
+![image link](https://github.com/Hithashree028/Module-1/blob/acf251967aaac23b97ce935299b2f0f65372c19e/Screenshot%202025-11-11%20211925.png)
+
+
 
 
 
