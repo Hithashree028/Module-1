@@ -50,7 +50,13 @@ Java program to compare two byte variables using the equality operator (==)
 ![image link](https://github.com/Hithashree028/Module-1/blob/3b000a81328d29afe0065feea4a56ad5ad81e18c/Screenshot%202025-11-06%20214406.png)
 
 Java program to Print "Hello Java" to the console.
-1[image link](https://github.com/Hithashree028/Module-1/blob/1d48a804278ee371d00a5d15ec0b5fc2732d7762/Screenshot%202025-11-11%20211457.png)
+![image link](https://github.com/Hithashree028/Module-1/blob/1d48a804278ee371d00a5d15ec0b5fc2732d7762/Screenshot%202025-11-11%20211457.png)
+
+Java program to Print your name, age, and favorite programming language
+![image link](https://github.com/Hithashree028/Module-1/blob/3dff71959a7d8b266229948883573b907cae47d9/Screenshot%202025-11-11%20211655.png)
+
+
+
 
 
 
