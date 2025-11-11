@@ -65,7 +65,7 @@ Java program  Demonstrate type casting from double to int.
 ![image link](https://github.com/Hithashree028/Module-1/blob/9a2b25a554afb5e9d546911442a1194d51f589b1/Screenshot%202025-11-11%20212141.png)
 
 
-![image link]()
+![image link](https://github.com/Hithashree028/Module-1/blob/411df170bcbf7a253051151737e929810b9e46a8/Screenshot%202025-11-11%20212239.png)
 
 
 ![image link]()
