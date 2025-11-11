@@ -61,23 +61,23 @@ Java program to Calculate and print the area of a circle (radius = 7.5)
 Java program  Demonstrate type casting from double to int.
 ![image link](https://github.com/Hithashree028/Module-1/blob/1b26af6227adef4ce9417fa9cdad8189e6850d3b/Screenshot%202025-11-11%20212037.png)
 
-
+Java program to Swap two numbers without using a third variable
 ![image link](https://github.com/Hithashree028/Module-1/blob/9a2b25a554afb5e9d546911442a1194d51f589b1/Screenshot%202025-11-11%20212141.png)
 
-
+Java program to Check if a number is even or odd
 ![image link](https://github.com/Hithashree028/Module-1/blob/411df170bcbf7a253051151737e929810b9e46a8/Screenshot%202025-11-11%20212239.png)
 
-
+Java program to Find the largest of three numbers
 ![image link](https://github.com/Hithashree028/Module-1/blob/f6455480a1586ff79014bf5474c8fd83cf6056d9/Screenshot%202025-11-11%20212400.png)
 
-
+Java program to Print multiplication table of a number
 ![image link](https://github.com/Hithashree028/Module-1/blob/06b6ad7c5a30084a3d615e61aaf227e44302ac3c/Screenshot%202025-11-11%20212629.png)
 
-
+Java program to Find the sum and average of elements in an array
 ![image link](https://github.com/Hithashree028/Module-1/blob/ea1acce9a0427bdb4d5a163de670590d8a030800/Screenshot%202025-11-11%20212852.png)
 
-
-![image link]()
+Java program to Create a Student class and display student info
+![image link](https://github.com/Hithashree028/Module-1/blob/6cb5c4b35af07893398003f9c6abff583c807cc6/Screenshot%202025-11-11%20213128.png)
 
 
 
